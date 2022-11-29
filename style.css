@@ -1,0 +1,84 @@
+.maincontainer{
+  background-color:#FD841F;
+  align-items: center;
+  height: 800px;
+  width:inherit;
+
+}
+.mainbox{
+  background-color:white;
+  height:460px;
+  width: 400px;
+  position: relative;
+  top:100px;
+  bottom:100px;
+  left:530px;
+  align-items: center;
+  border-radius:12px;
+}
+.box{
+  background:#87A2FB;
+  height:150px;
+  width:400px;
+  border-radius:10px;
+}
+.image{
+  position: relative;
+  left:144px;
+  height:20%;
+  width:25%;
+  border-radius: 40px;
+  bottom:30px;
+}
+.name{
+  position: relative;
+  left:85px;
+  font-size:10px;
+  bottom:25px;
+  font-family: 'Dancing Script', cursive;
+  color:#21E1E1;
+}
+.city{
+  position: relative;
+  left:170px;
+  font-size:20px;
+  bottom:25px;
+  font-family:  'Indie Flower', cursive;
+}
+.info1{
+  position: relative;
+  left:75px;
+  bottom:6px;
+  font-family: 'Oswald', sans-serif;
+
+}
+.info2{
+  position: relative;
+  left:53px;
+  bottom:18px;
+  font-family: 'Fuzzy Bubbles', cursive;
+}
+.info3{
+  position: relative;
+  left:185px;
+  bottom:90px;
+  font-family: 'Oswald', sans-serif;
+}
+.info4{
+  position: relative;
+  left:180px;
+  bottom:100px;
+  font-family: 'Fuzzy Bubbles', cursive;
+}
+.info5{
+  position: relative;
+  left:300px;
+  bottom:172px;
+  font-family: 'Oswald', sans-serif;
+}
+.info6{
+  position: relative;
+  left:295px;
+  bottom:182px;
+  font-family: 'Fuzzy Bubbles', cursive;
+}
